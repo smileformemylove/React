@@ -1,5 +1,5 @@
 import React from "react";
-import MainTODO from "./components/MainTODO.jsx";
+import MainTODO from "./components/TodoApp.jsx";
 
 class App extends React.Component {
     render() {
